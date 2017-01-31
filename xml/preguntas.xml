@@ -5,21 +5,21 @@
 
 <questions>
     <question id="pregunta1">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>number</type>
+	<title>¿Con que edad murión Napoleon? </title>
+	<answer>51</answer>
     </question>
 
     <question id="pregunta2">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>date</type>
+	<title>¿Cual es la fecha de la batalla de Waterloo?</title>
+	<answer>18/06/1815</answer>
     </question>
 
     <question id="pregunta3">
 	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<title>¿Cual es el nombre de la "pasionaria"?</title>
+	<answer>Dolores Ibárruri</answer>
     </question>
 
     <question id="pregunta4">
@@ -67,5 +67,5 @@
 	<title>Adivina el número secreto... </title>
 	<answer>23</answer>
     </question>
-    
+
 </questions>
