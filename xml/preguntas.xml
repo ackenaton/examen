@@ -4,17 +4,68 @@
 <!DOCTYPE questions>
 
 <questions>
-    <question id="profe_001">
+    <question id="pregunta1">
 	<type>text</type>
 	<title>Adivina el número secreto... </title>
 	<answer>23</answer>
     </question>
-    <question id="profe_002">
-	<type>select</type>
-	<title>HTML son las iniciales de...</title>
-	<option>Hyper Text Transfer Protocol</option>
-	<option>File Transfer Protocol</option>
-	<option>Hypertext markup language</option>
-	<answer>2</answer>
+
+    <question id="pregunta2">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
     </question>
+
+    <question id="pregunta3">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta4">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta5">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta6">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta7">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta8">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+
+    <question id="pregunta9">
+	<type>select</type>
+	<title>Elige la opción correcta</title>
+	<option>23</option>
+  <option>23</option>
+  <option>23</option>
+  <option>23</option>
+  <answer>0</answer>
+    </question>
+
+    <question id="pregunta10">
+	<type>text</type>
+	<title>Adivina el número secreto... </title>
+	<answer>23</answer>
+    </question>
+    
 </questions>
