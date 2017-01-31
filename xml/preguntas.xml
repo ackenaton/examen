@@ -23,9 +23,13 @@
     </question>
 
     <question id="pregunta4">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>select</type>
+	<title>¿En que año finalizó la guerra civil española?</title>
+  <option>1842</option>
+  <option>1920</option>
+  <option>1482</option>
+  <option>1939</option>
+  <answer>4</answer>
     </question>
 
     <question id="pregunta5">
