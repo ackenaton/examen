@@ -33,43 +33,46 @@
     </question>
 
     <question id="pregunta5">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>select</type>
+	<title>¿Cuantas personas firmaron la constitución española?</title>
+  <option>1978</option>
+  <option>1945</option>
+  <option>1939</option>
+  <answer>0</answer>
     </question>
 
     <question id="pregunta6">
 	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<title>¿Quien inventó la pasteurización</title>
+	<answer>Louis Pasteur</answer>
     </question>
 
     <question id="pregunta7">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>date</type>
+	<title>¿En que fecha murió Marie Curie?</title>
+	<answer>04/07/1934</answer>
     </question>
 
     <question id="pregunta8">
-	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<type>number</type>
+	<title>Cuantos bandos existian en la guerra de civil americana?</title>
+	<answer>2</answer>
     </question>
 
     <question id="pregunta9">
 	<type>select</type>
-	<title>Elige la opción correcta</title>
-	<option>23</option>
-  <option>23</option>
-  <option>23</option>
-  <option>23</option>
-  <answer>0</answer>
+	<title>¿A quien se considera el padre de la corriente alterna?</title>
+	<option>Thomas Alva Edison</option>
+  <option>Alexander Graham Bell</option>
+  <option>Nikola Tesla</option>
+  <option>Guillermo Marconi</option>
+  <answer>2</answer>
     </question>
 
     <question id="pregunta10">
 	<type>text</type>
-	<title>Adivina el número secreto... </title>
-	<answer>23</answer>
+	<title>¿De que país se llegó a decir que en el nunca se ponía el sol?</title>
+	<answer>España</answer>
     </question>
 
 </questions>
